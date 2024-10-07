@@ -1,0 +1,2 @@
+bus_lines https://geodata.tec-wl.be/server/rest/services/Lignes/MapServer
+bus_stops https://geodata.tec-wl.be/server/rest/services/Poteaux/MapServer
