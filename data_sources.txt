@@ -1,2 +1,3 @@
 bus_lines https://geodata.tec-wl.be/server/rest/services/Lignes/MapServer
 bus_stops https://geodata.tec-wl.be/server/rest/services/Poteaux/MapServer
+bus GTFS files https://opendata.tec-wl.be/Current%20GTFS/
