@@ -12,6 +12,7 @@ networkx = "*"
 osmnx = "*"
 igraph = "*"
 pandana = "*"
+gtfs-kit = "*"
 
 [dev-packages]
 
