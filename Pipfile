@@ -7,6 +7,12 @@ name = "pypi"
 numpy = "*"
 jupyterlab = "*"
 matplotlib = "*"
+pyrosm = "*"
+networkx = "*"
+osmnx = "*"
+igraph = "*"
+pandana = "*"
+gtfs-kit = "*"
 
 [dev-packages]
 
