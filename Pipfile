@@ -16,6 +16,7 @@ gtfs-functions = "*"
 ipython = "*"
 h3 = "==3.7.7"
 keplergl = "*"
+descartes = "*"
 
 [dev-packages]
 
